@@ -1,2 +1,2 @@
 # simple-spark-api-app
-Practice writing self-contained applications in IntelliJ IDEA/Pycharm IDEs using the Spark API in Scala (with SBT), Java (with Maven), and Python. Using the <a href="https://spark.apache.org/docs/1.2.0/quick-start.html" target=_>Spark quick start guide</a>.
+Practice writing self-contained applications in IntelliJ IDEA/Pycharm IDEs using the Spark API in Scala (with SBT), Java (with Maven), and Python. Using the <a href="https://spark.apache.org/docs/1.2.0/quick-start.html" target="_blank">Spark quick start guide</a>.
